@@ -2,6 +2,16 @@
 
 An internal tool to generate concise, one-page executive summaries from lengthy business or legal documents (PDF/DOCX). Built using OpenAI's GPT-4o and Streamlit.
 
+---
+
+## 🌐 Live App
+
+👉 [Click here to open the AI Document Summarizer](https://ai-doc-summarizer.streamlit.app)
+
+> 🔒 This app is for internal use only. Please do not share externally.
+
+---
+
 > 🔒 **Internal Use Only** — This tool is designed for use by employees of StoneTurn. Do not share externally.
 
 ---
