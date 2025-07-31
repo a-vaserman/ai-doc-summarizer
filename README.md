@@ -10,7 +10,7 @@ An internal tool to generate concise, one-page executive summaries from lengthy 
 
 - 📎 Upload any PDF or DOCX file
 - 📚 Automatically chunks long documents
-- 🧠 Uses GPT-4o to generate a structured, Markdown-formatted summary
+- 🧠 Uses GPT-4o to generate a structured, markdown-formatted summary
 - 📋 Displays results cleanly in-browser with download option
 - ⚡ 100% browser-based — no coding or install required
 
