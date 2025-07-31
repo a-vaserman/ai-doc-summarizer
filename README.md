@@ -1,4 +1,4 @@
-# 📄 AI Document Summarizer
+# 📄 AI-Powered Document Summarizer
 
 An internal tool to generate concise, one-page executive summaries from lengthy business or legal documents (PDF/DOCX). Built using OpenAI's GPT-4o and Streamlit.
 
