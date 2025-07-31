@@ -1,0 +1,7 @@
+# 🔐 Secret keys (keep out of GitHub!)
+.streamlit/secrets.toml
+
+# 🧹 Python cache
+__pycache__/
+*.pyc
+
