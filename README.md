@@ -12,10 +12,6 @@ An internal tool to generate concise, one-page executive summaries from lengthy 
 
 ---
 
-> 🔒 **Internal Use Only** — This tool is designed for use by employees of StoneTurn. Do not share externally.
-
----
-
 ## 🚀 Features
 
 - 📎 Upload any PDF or DOCX file
