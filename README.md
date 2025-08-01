@@ -8,7 +8,6 @@ An internal tool to generate concise, one-page executive summaries from lengthy 
 
 👉 [Click here to open the AI Document Summarizer](https://ai-doc-summarizer.streamlit.app)
 
-> 🔒 This app is for internal use only. Please do not share externally.
 
 ---
 
